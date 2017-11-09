@@ -13,19 +13,16 @@ style: styles-5
 #Profile information
 name: Fabio Rangel
 tagline: Researcher and Data Scientist
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+pic: foto.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: 'Fabio Rangel holds B.S. in Computer Science from the Federal University of Rio de Janeiro (2015). Currently a graduate (master) student at the Graduate Program in Informatics at UFRJ (PPGI - UFRJ). His research is associated with Machine Learning in Nonstationary Environments, focusing in Semi-Supervised and Online Learning. Fabio is also a part-time lecturer at the same university, teaching Programming, Linear Algebra, and Computational Intelligence.'
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+email: fabiorangel at dcc ufrj br
+#phone: 012 345 6789
+#website: blog.webjeda.com #do not add http://
+#linkedin: alandoe
+github: fabiorangel
+twitter: '@fabiomrangel'
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker
