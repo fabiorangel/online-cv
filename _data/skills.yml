@@ -1,18 +1,4 @@
 - skill:
-  name: Python & Django
-  level: 98%
-- skill:
-  name: Javascript & jQuery
-  level: 98%
-- skill:
-  name: Angular
-  level: 98%
-- skill:
-  name: HTML5 & CSS
-  level: 95%
-- skill:
-  name: Ruby on Rails
-  level: 85%
-- skill:
-  name: Sketch & Photoshop
-  level: 60%
+  text: 'STEARNS, B. ; RANGEL, F. ; RANGEL, F. M. ; FARIA, F. F. ; OLIVEIRA, J. . Scholar Performance Prediction using Boosted Regression Trees Techniques. In: 25th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, 2017, Brugges. Proceedings of 25th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN). Louvain-la-Neuve: Ciaco, 2017. p. 239-344.'
+  link: https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2017-65.pdf
+  
