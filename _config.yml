@@ -14,8 +14,7 @@ style: styles-2
 name: Fabio Rangel
 tagline: Researcher and Data Scientist
 pic: foto.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Fabio Rangel holds B.S. in Computer Science from the Federal University of Rio de Janeiro (2015). Currently a graduate (master) student at the Graduate Program in Informatics at UFRJ (PPGI - UFRJ). His research is associated with Machine Learning in Nonstationary Environments, focusing in Semi-Supervised and Online Learning. Fabio is also a part-time lecturer at the same university, teaching Programming, Linear Algebra, and Computational Intelligence.
-Fabio also supervised the scientific initiation work entitled Predicting Performance of ENEM Candidates Through Socioeconomic Data, selected as one of the nine best works of IC in Brazil by the 36th Scientific Initiation Work Contest (2017).'
+summary: 'Fabio Rangel holds B.S. in Computer Science from the Federal University of Rio de Janeiro (2015). Currently a graduate (master) student at the Graduate Program in Informatics at UFRJ (PPGI - UFRJ). His research is associated with Machine Learning in Nonstationary Environments, focusing in Semi-Supervised and Online Learning. Fabio is also a part-time lecturer at the same university, teaching Programming, Linear Algebra, and Computational Intelligence. Fabio also supervised the scientific initiation work entitled Predicting Performance of ENEM Candidates Through Socioeconomic Data, selected as one of the nine best works of IC in Brazil by the 36th Scientific Initiation Work Contest (2017).'
 
 #sidebar links
 email: fabiorangel at dcc ufrj br
