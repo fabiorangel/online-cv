@@ -1,24 +1,10 @@
-{% if site.data.skills %}
 <section class="skills-section section">
 
-  <h2 class="section-title"><i class="fa fa-rocket"></i>Skills &amp; Proficiency</h2>
+  <h2 class="section-title"><i class="fa fa-rocket"></i>Main Publications</h2>
 
   <div class="skillset">
-
-    {% for skill in site.data.skills %}
-    <div class="item">
-
-      <h3 class="level-title">{{ skill.name }}</h3>
-
-      <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ skill.level }}">
-        </div>
-      </div><!--//level-bar-->
-
-    </div><!--//item-->
-    {% endfor %}
-
+    <p>STEARNS, B. ; RANGEL, F. ; RANGEL, F. M. ; FARIA, F. F. ; OLIVEIRA, J. . Scholar Performance Prediction using Boosted Regression Trees Techniques. In: 25th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, 2017, Brugges. Proceedings of 25th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN). Louvain-la-Neuve: Ciaco, 2017. p. 239-344.</p>
+    <p>STEARNS, B. ; RANGEL, F. ; FARIA, F. F. ; OLIVEIRA, J. . A Dispersion-Based Discretization Method for Models Explanation. In: 5nd Symposium on knowledge Discovery, mining and learning (KDMile), 2017, Uberlândia. Proceedings of 5nd Symposium on knowledge Discovery, mining and learning (KDMile), 2017. p. 35-42.</p>
   </div>
 
 </section><!--//skills-section-->
-{% endif %}
