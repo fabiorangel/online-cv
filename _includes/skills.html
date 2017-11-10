@@ -5,7 +5,7 @@
   <div class="skillset">
     <ul>
     {% for skill in site.data.skills %}
-        <li>{{skill.text}} ({{skill.year}}) [<a href="{{skill.link}}">paper</a>]</li>
+        <li><a href="{{skill.link}}">{{skill.text}} ({{skill.year}})</a></li>
         <br>
     {% endfor %}
     </ul>
