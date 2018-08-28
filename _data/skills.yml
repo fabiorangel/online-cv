@@ -1,4 +1,9 @@
 - skill:
+  text: 'Vector Field Based Neural Networks'
+  link: http://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2018-192.pdf
+  year: 2018
+
+- skill:
   text: 'Scholar Performance Prediction using Boosted Regression Trees Techniques'
   link: https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2017-65.pdf
   year: 2017
