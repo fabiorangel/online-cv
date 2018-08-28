@@ -14,8 +14,10 @@ style: styles-2
 name: Fabio Rangel
 tagline: Researcher and Data Scientist
 pic: foto.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Fabio Rangel holds B.S. in Computer Science from the Federal University of Rio de Janeiro (2015). Currently a graduate (master) student at the Graduate Program in Informatics at UFRJ (PPGI - UFRJ). His research is associated with Machine Learning in Nonstationary Environments, focusing in Semi-Supervised and Online Learning. Fabio was part-time lecturer at the same university, teaching Python Programming, Linear Algebra, Computational Intelligence, and Data Mining. Fabio supervised the work entitled Predicting Performance of ENEM Candidates Through Socioeconomic Data, selected as one of the nine best undergraduate research
- works in Brazil by the 36th Undergraduate Research Work Contest (2017). Currently, Fabio is working at KOLAB, a joint venture between WMcCann and FlagCX to provide a Media Intelligence Center for Coca-Cola, as Data Scientist, also leading Business Intelligence team.'
+summary: 'Fabio Rangel holds B.S. in Computer Science from the Federal University of Rio de Janeiro (2015), and a M.S. degree at the Graduate Program in Informatics at UFRJ. His research is associated with Machine Learning in Nonstationary Environments, focusing in Semi-Supervised and Online Learning. Fabio was part-time lecturer at the same university, teaching Python Programming, Linear Algebra, Computational Intelligence, and Data Mining. Fabio supervised the work entitled Predicting Performance of ENEM Candidates Through Socioeconomic Data, selected as one of the nine best undergraduate research
+ works in Brazil by the 36th Undergraduate Research Work Contest (2017). 
+ 
+ Currently, Fabio is working at KOLAB, a joint venture between WMcCann and FlagCX to provide a Media Intelligence Center for Coca-Cola, as Data Scientist, also leading Business Intelligence team.'
 
 #sidebar links
 email: fabiorangel at dcc ufrj br
